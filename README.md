@@ -14,6 +14,13 @@
   Files end with ".mlx" are MATLAB LiveScripts; run them with ".mat" files recreate the data processing steps and final result. <br>
 </p>
 <h1>
+  Prerequisite to run this:
+</h1>
+<p>
+  Created with MATLAB 2023a (Version 9.14), older version may work. <br>
+  Requires Wavelet Toolbox (Version 6.3), older version may work.
+</p>
+<h1>
   Where can I find the paper/ or preprint?
 </h1>
 <p>
