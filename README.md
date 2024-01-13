@@ -3,22 +3,36 @@
   Current status:
 </h1>
 <p>
-  Still a draft.
+  Under review...
 </p>
 <h1>
   What's this:
 </h1>
 <p>
   This is the support data for the capacitive primateEyeTracker research paper. <br>
-  Files end with ".mat" are MATLAB date stores; they contain the unprocessed capacitive readings and reference sclera coil signals. <br>
-  Files end with ".mlx" are MATLAB LiveScripts; run them with ".mat" files recreate the data processing steps and final result. <br>
+  <ul>
+    <li>
+      Folder: script and data/dataset1 contains data for main result throughout the paper. 
+    </li>
+    <li>
+      Folder: script and data/dataset2_3_ML contains data for additional result dataset 2,3 and machine learning using different sets.
+    </li>
+    <li>
+      Files end with ".mat" are MATLAB date stores; they contain the unprocessed capacitive readings and reference sclera coil signals. 
+    </li>
+    <li>
+      Files end with ".mlx" are MATLAB LiveScripts; run them with ".mat" files recreate the data processing steps and final result.
+    </li>
+  </ul>
+  
 </p>
 <h1>
   Prerequisite to run this:
 </h1>
 <p>
   Created with MATLAB 2023a (Version 9.14), older version may work. <br>
-  Requires Wavelet Toolbox (Version 6.3), older version may work.
+  Requires Wavelet Toolbox (Version 6.3), older version may work. <br>
+  Requires Statistics and Machine Learning Toolbox (Version 12.5), older version may work.
 </p>
 <h1>
   Where can I find the paper/ or preprint?
